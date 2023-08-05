@@ -1,0 +1,12 @@
+package com.coder;
+
+/**
+ * @author anluo
+ * @date 2023/8/5
+ * @project test_git
+ */
+public class Test {
+    public static void main(String[] args) {
+        System.out.println("hello world");
+    }
+}
